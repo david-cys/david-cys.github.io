@@ -5,7 +5,6 @@ title: Hello World post
 
 #This is a hello world post!
 
-<david.cys@live.com>
 #h1
 ##h2
 ###h3
